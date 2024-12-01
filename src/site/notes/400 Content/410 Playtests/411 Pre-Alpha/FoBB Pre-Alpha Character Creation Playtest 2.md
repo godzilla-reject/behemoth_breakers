@@ -468,7 +468,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >
 >> [!blank]
 >>#### Warrior 
->>- **A Warrior Construct **
+>>- **A Warrior Construct**
 >>Choose a physical Skill trait. You make all tests of that Skill with favor.
 >> #### Thinker
 >>- **A Thinking Machine**
