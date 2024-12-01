@@ -381,14 +381,14 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 >> > *Language: Kinspeak*
 >> 
 >> ---
-| Physicality | Mentality | Spirituality |
-|:-----------:|:---------:|:------------:|
-|     3        |    2       |       1       |
+>> | Physicality | Mentality | Spirituality |
+>> |:-----------:|:---------:|:------------:|
+>> |     3        |    2       |       1       |
 >>
 >>
-| Base Health | Base Stamina | Base Mana | Size |
-|:-----------:|:------------:|:---------:| :----: |
-|      2      |      2       |     2     |   1   |
+>> | Base Health | Base Stamina | Base Mana | Size |
+>> |:-----------:|:------------:|:---------:| :----: |
+>> |      2      |      2       |     2     |   1   |
 >>
 >>
 >> ---
