@@ -375,7 +375,7 @@ Finally, describe your Breaker's appearance, fill out their **biography**, and c
 ## The Breakers 
 ### Species 
 #### Humankind
-> [!statblocks|columns]
+> [!statblocks]
 >> #### Humankind
 >> > The most common of the core three species, Humankind boasts excellent resilience and physical fortitude, as well as the ability to adapt to nearly any environment.
 >> > *Language: Kinspeak*
