@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/400-content/410-playtests/411-pre-alpha/fo-bb-pre-alpha-character-creation-playtest-2/","tags":["gardenEntry"]}
 ---
 
-
-```table-of-contents
-title: # Table of Contents
-maxLevel: 3
-```
 # Introduction
 >[!quote|author] Garrison Commander Alessia
 >WARNING, ALL BREAKERS: ***Behemoth Emergence Imminent.***
@@ -20,15 +15,12 @@ The goals of *this* playtest are as follows:
 - Address early mathematics issues. Right now, as the game is in its infancy, these foundational mechanics need to be tuned well.
 ## Game Materials
 In order to play this playtest, you'll need a few things, which are listed here:
-- Either:
-	- A writing utensil, preferably a pencil, and the paper Breaker Sheet, or;
-	- The digital Breaker sheet. 
 - Either (or both):
 	- A set of dice, d2 through d20, with 2 additional d6 (for a total of 3d6) 
 	- A digital dice roller. While less fun, digital dice make playing the game much easier.
 - Basic reading comprehension. 
 - [The Official Behemoth Breaker](https://docs.google.com/spreadsheets/d/1n2CYNY7mnI1LOLS1rMADno1L36xFq9Jyu9224PD4lhM/edit?usp=sharing) character sheet. It does most of the math for you, just to save us all some time.
-- [Your Feedback Form]
+- [Your Feedback Form](https://forms.gle/JCkiN5bPQHvCxcnh6)
 - Some scratch paper or a notepad document to take notes as you do the playtest.
 - About 30-45 minutes of free time.
 # Instructions
@@ -36,7 +28,7 @@ After you have your materials in order, you're ready to begin. Below are the ins
 1. Fill out Section 1 of the Feedback Form.
 2. Complete Character Creation, under Section 1. It's got a step-by-step guide, so don't worry. This'll take the longest, by far. Make sure you read each part before moving onto the next; the content is presented in the order you'll need to learn it!
 3. Complete Section 2 of the Feedback Form.
-4. Complete the test rolls set forth in ***Testing the Test***.
+4. Complete the test rolls set forth in ***Testing the Test***. Make sure you are recording your results and the answers to the questions each test asks!
 5. Fill out Sections 3 and 4 of the Feedback Form.
 # ***Section 1: Character Creation***
 # Part 1: Rules Of Play
@@ -1626,42 +1618,42 @@ Crafting materials are tracked separately; they have their own 16-slot inventory
 - **White Herb Bulb**
 - **Yellow Herb**
 ---
-- **Alchemical Spirit**
-	- *Carry Limit*: 10; *Value:* 15; A small bottle of powerful alcohol that can be used to extract effects from most flora.
-- **Black Herb**
-	- *Carry Limit*: 10; *Value:* 55; A small shoot taken from an Umbrangea plant. 
-- **Black Herb Bulb**
-	- *Carry Limit*: 5; *Value:* 75; A bulb taken from an Umbrangea plant.
-- **Blank Rune** 
-	- *Carry Limit*: 6; *Value:* 60; A Behemoth bone rune, carved expertly to provide a flat surface for embossing.
-- **Blue Herb**
-	- *Carry Limit*: 10; *Value:* 10; A bright blue shoot taken from a Blue Chromaticinth. 
-- **Bouldegonia**
-	- *Carry Limit*: 5; *Value:* 90; A gray flower that is hard as stone due to its ability to arcanosythesize earthen elementia. 
-- **Flitter Flora**
-	- *Carry Limit*: 5; *Value:* 90; A white flower with wispy, silk-like petals. Constantly flitters, as if in mild wind, at all times due to high amounts of internal air elementia.
-- **Frozen Fleur**
-	- *Carry Limit*: 5; *Value:* 100; A crystalline flower that drips ice-cold, but never frozen, water.  
-- **Mothberry**
-	- *Carry Limit*: 20; *Value:* 15; A small, white berry that germinates on the highly toxic Moth Camellia plant. Has powerful medicinal properties.
-- **Puddle Lily**
-	- *Carry Limit*: 5; *Value:* 80; A flower with wide, channel-like leaves that constantly pool and drip water. 
-- **Red Herb**
-	- *Carry Limit*: 10; *Value:* 20; A crimson red shoot harvested from a Red Chromaticinth.
-- **Rest Radish**
-	- *Carry Limit*: 9; *Value:* 45; The tuber from a Rest Radish.
-- **Shot Stone** 
-	- *Carry Limit*: 12; *Value:* 55; Special stones harvested from places with high concentrations of fire elementia. When energized, these stones emit a powerful projectile.
-- **Smolderplume**
-	- *Carry Limit*: 5; *Value:* 70; Long, spiral-shaped leaves that smolder with smoke and ebb with ember.
-- **Steeleaf Herb**
-	- *Carry Limit*: 5; *Value:* 60; An incredibly durable leaf-like herb.
-- **White Herb**
-	- *Carry Limit*: 10; *Value:* 55; A shoot taken from a Solar Bloom.
-- **White Herb Bulb**
-	- *Carry Limit*: 5; *Value:* 75; A germination bulb, taken from a Solar Bloom.
-- **Yellow Herb**
-	- *Carry Limit*: 6; *Value:* 25; A pungently yellow shoot taken from a Yellow Chromaticinth.
+- List 	- **Alchemical Spirit**
+		- *Carry Limit*: 10; *Value:* 15; A small bottle of powerful alcohol that can be used to extract effects from most flora.
+	- **Black Herb**
+		- *Carry Limit*: 10; *Value:* 55; A small shoot taken from an Umbrangea plant. 
+	- **Black Herb Bulb**
+		- *Carry Limit*: 5; *Value:* 75; A bulb taken from an Umbrangea plant.
+	- **Blank Rune** 
+		- *Carry Limit*: 6; *Value:* 60; A Behemoth bone rune, carved expertly to provide a flat surface for embossing.
+	- **Blue Herb**
+		- *Carry Limit*: 10; *Value:* 10; A bright blue shoot taken from a Blue Chromaticinth. 
+	- **Bouldegonia**
+		- *Carry Limit*: 5; *Value:* 90; A gray flower that is hard as stone due to its ability to arcanosythesize earthen elementia. 
+	- **Flitter Flora**
+		- *Carry Limit*: 5; *Value:* 90; A white flower with wispy, silk-like petals. Constantly flitters, as if in mild wind, at all times due to high amounts of internal air elementia.
+	- **Frozen Fleur**
+		- *Carry Limit*: 5; *Value:* 100; A crystalline flower that drips ice-cold, but never frozen, water.  
+	- **Mothberry**
+		- *Carry Limit*: 20; *Value:* 15; A small, white berry that germinates on the highly toxic Moth Camellia plant. Has powerful medicinal properties.
+	- **Puddle Lily**
+		- *Carry Limit*: 5; *Value:* 80; A flower with wide, channel-like leaves that constantly pool and drip water. 
+	- **Red Herb**
+		- *Carry Limit*: 10; *Value:* 20; A crimson red shoot harvested from a Red Chromaticinth.
+	- **Rest Radish**
+		- *Carry Limit*: 9; *Value:* 45; The tuber from a Rest Radish.
+	- **Shot Stone** 
+		- *Carry Limit*: 12; *Value:* 55; Special stones harvested from places with high concentrations of fire elementia. When energized, these stones emit a powerful projectile.
+	- **Smolderplume**
+		- *Carry Limit*: 5; *Value:* 70; Long, spiral-shaped leaves that smolder with smoke and ebb with ember.
+	- **Steeleaf Herb**
+		- *Carry Limit*: 5; *Value:* 60; An incredibly durable leaf-like herb.
+	- **White Herb**
+		- *Carry Limit*: 10; *Value:* 55; A shoot taken from a Solar Bloom.
+	- **White Herb Bulb**
+		- *Carry Limit*: 5; *Value:* 75; A germination bulb, taken from a Solar Bloom.
+	- **Yellow Herb**
+		- *Carry Limit*: 6; *Value:* 25; A pungently yellow shoot taken from a Yellow Chromaticinth.
 
 </div></div>
 
@@ -1706,9 +1698,35 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 		- 3x Neophyte Crystals 
 		- 3x Herbal Boosters
 # ***Section 2: Testing The Test***
+Now that you've made your character, its time to make your *first ever* trait test in *Fable of the Behemoth Breakers*! For each of the sections, you'll make two different tests; the first is "simple" and shows common-use cases, while the second is a more "complex" test that shows less common use-cases. 
 
+A reminder: if you didn't read Part 1 of Section 1, I recommend going back and reading it now. It explains how these tests work *in the way that the CRB will*, which is why I am not reproducing those rules here. Also, make sure you're taking notes on the way the game feels while making these tests. Game-feel feedback is super important.
+## Primary Attribute Tests 
+These two tests are testing *Primary Attribute* traits.
+### #1  Simple 
+You attempt to catch a large boulder as it flies towards your ally. Make an *average* ***Physicality*** test. 
+-  What is your final TN for this test? Include the value of the relevant trait.
+### #2 Complex
+You struggle against a Behemoth's psionic attack. Make a *hard* ***Mentality*** test with a +3 item bonus. 
+## Secondary Attribute Tests 
+These two tests are testing *Secondary Attribute* traits.
+### #1  Simple 
+You attempt to connect to a long-extinct Behemoth spirit. Make an *average* **Connection** test.
+### #2 Complex
+A rival Breaker attempts to best you in a game of wits. Make a *very easy* **Intellect** test with a +2 item bonus and a -2 circumstance penalty.
+- What is your final TN for this test? Include the value of the relevant trait.
+## Skill Tests 
+These two tests are testing *Skill* traits.
+### #1  Simple 
+You attempt to outpace a Behemoth. Make an *easy Speed* test.
+### #2 Complex
+You attempt to come up with a brand new color. Make an *extreme Creativity* test with a +4 item bonus, +2 item bonus, -3 item penalty, +1 circumstance bonus, and a -5 status penalty.
+- What is your final TN for this test? Include the value of the relevant trait.
+- What is the final item bonus for this test? 
+- What is the final modifier for this test? 
 # ***Section 3: The Glossaries***
 ## Glossary 1: Action Tags
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -1719,75 +1737,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 </div>
 
 
-# Action Tags 
-- **Block**
-- **Camp**
-- **Charged**
-- **Combo**
-- **Combo-Breaker**
-- **Defense**
-- **Dodge**
-- **Downtime**
-- **Drawing**
-- **Explore**
-- **Flourish**
-- **Limited**
-- **Mana**
-- **Move**
-- **Open**
-- **Piercing**
-- **Reach**
-- **Riposte**
-- **Spell**
-- **Stamina**
-- **Strike** 
-- **Stunning**
-- **Teleport**
-
----
-
-- **Block** This tag always has a qualifier. This tag shows up on every single action that involves Blocking, and provides how that action changes the Block Die size of the weapon in its qualifier. For example, an action with "Block -2" is an action that lowers (-) Block Die size by two (2) steps, meanwhile "Block +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
-- **Camp** Actions with this tag can only be used while **At Camp**.
-- **Charged** This tag always has a qualifier. Actions with this tag can have a number of *additional* actions spent on them in order to gain bonus effects, which are listed in the actions *Charged* section.  
-- **Combo** Actions with this tag are typically done in sequence. After performing a *Combo* action, your *Combo Count* increases by 1. It further increments by 1 for each *Combo* action you take, and resets to 0 when you take an action without this tag.
-- **Combo-Breaker** This tag always has a qualifier. Actions with this tag cannot be used unless you have a *Combo Count* equal to or higher than the qualifier. 
-- **Dodge** This tag always has a qualifier. This tag shows up on every single action that involves Dodging, and provides how that action changes the Dodge Die size of the weapon in its qualifier. For example, an action with "Dodge -2" is an action that lowers (-) Dodge Die size by two (2) steps, meanwhile "Dodge +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered an *Active Defense*. *This is a type tag.*
-- **Downtime** Actions with this tag can only be used while you are **In Downtime.**
-- **Drawing** Actions with this tag allow the user to draw the weapon they plan on using the action with as part of it, forgoing the need to **Sheathe**.
-- **Explore** Actions with this tag can only be used while you are **Exploring**.
-- **Flourish** Actions with this tag can only be performed once per turn. 
-- **Limited** This tag always has a qualifier. Actions with this tag can only be used a number of times per engagement. The number of uses is given in the qualifier.
-- **Mana** This tag always has a qualifier. Actions with this tag cost mana to use, and that cost is given in the qualifier for this tag. 
-- **Move** This tag always has a qualifier. Actions with this trait allow the user to move as part of the action, up to a number of spaces given in the qualifier. *This is a type tag.*
-- **Open** An action with this tag can only be used if its the first action of that type you take on your turn. 
-- **Piercing** *Strike* actions with this tag ignore half of a Behemoth's applicable Resistances.
-- **Reach** This tag always has a qualifier. *Strike* actions with this tag have their effective targeting area (or reach) increased by the qualifier.
-- **Riposte** This tag always has a qualifier, and always is accompanied by the *Block* tag. Actions with this tag allow a counterattack after successfully blocking an attack. This counterattack can be any *Strike* action that requires a number of actions given in the qualifier (that you could otherwise perform.)
-- **Spell** Actions with this tag are manifestations of pure mana, warped into the user's desire. *This is a type tag.*
-- **Stamina** This tag always has a qualifier. Actions with this tag cost stamina to use, and that cost is given in the qualifier for this tag. 
-- **Strike** This tag always has a qualifier. This tag shows up on every single action that involves making an attack, and provides how that action changes the Damage Die size of the weapon in its qualifier. For example, an action with "Strike -2" is an attack that lowers (-) Damage Die size by two (2) steps, meanwhile "Strike +1" would increase (+) it by one (1). "+0" means no change. Actions with this tag are considered *attacks*. *This is a type tag.*
-- **Stunning** *Strike* actions with this tag increase their Weapon Die size by 1 step when dealing damage to a Behemoth's Head (or equivalent.)
-- **Teleport** Actions with this tag displace the user across local space, altering their location via mana. Actions with this tag do not trigger reactions.
-# Equipment Tags 
-- **Armor**
-- **Carry**
-- **Consumable**
-- **Enhancement**
-- **Gear**
-- **Modification**
-- **Restorative**
-- **Trap**
-- **Weapon**
----
-- **Armor** Equipment with this tag provides protection to the wearer in the form of damage resistance. *This is a type tag.*
-- **Carry** This tag always has a qualifier. A Breaker can carry up to X of any piece of equipment with this tag, where X is the qualifier. 
-- **Consumable** This tag can include a qualifier. Equipment with this tag is of limited use, which is by default 1. If this tag has a qualifier, the number of uses is equal to that qualifier. 
-- **Enhancement** Equipment with this tag is used to bolster Breaker abilities. Modifiers from equipment with this tag typically stack with other modifiers of the same type.
-- **Gear** Equipment with this tag is of general-use to a Breaker in the field, and does not provide keystone offensive or defensive prowess. *This is a type tag.*
-- **Modification** This tag always has a qualifier. Equipment with this tag modifies the function of weaponry. The weapon, or type of weapon, it modifies is given in the qualifier.
-- **Restorative** Equipment with this tag heals and mends Breakers. 
-- **Trap** This tag always has a qualifier. Equipment with this tag can trap a Behemoth. The difficulty level of the test the Behemoth must pass to escape is given in the qualifier, and it lowers by 1 stage each time the same type of trap is used in an engagement.
-- **Weapon** Equipment with this tag is used by Breakers to hunt Behemoths. *This is a type tag.*
+- List 
 
 </div></div>
 
@@ -1802,21 +1752,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 </div>
 
 
-- **Arcane Restoration**
-- **Armor Potency**
-- **Energy Restoration**
-- **Evasion Potency**
-- **Guard Potency**
-- **Iron Wall**
-- **Sly Dodger**
----
-- **Arcane Restoration** *Level Cap: 3* For every level of this perk, you gain +1 Mana Regeneration.
-- **Armor Potency** *Level Cap: 7* You gain an item bonus to Physical Resistance equal to your level in this Perk times two, and an item bonus to Elemental Resistance equal to your level In this Perk.
-- **Energy Restoration** *Level Cap: 3* For every level of this perk, you gain +2 Stamina Regeneration.
-- **Evasion Potency** *Level Cap: 5* Increase your Base Dodge die size by 1 step for each level of this Perk.
-- **Guard Potency** *Level Cap: 5* Increase your Base Block die size by 1 step for each level of this Perk.
-- **Iron Wall** *Level Cap: 2* Whenever you *completely* **Block** an attack, you gain a status bonus to your Resistances equal to 4 times your level in this Perk until the end of your next turn.
-- **Sly Dodger** *Level Cap: 1* Whenever you *completely* **Dodge** an attack, your next attack deals another die of damage.
+- List 
 
 </div></div>
 
@@ -1831,61 +1767,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 </div>
 
 
-- **Alchemical Spirit**
-- **Black Herb**
-- **Black Herb Bulb**
-- **Blank Rune** 
-- **Blue Herb**
-- **Bouldegonia**
-- **Flitter Flora**
-- **Frozen Fleur**
-- **Mothberry**
-- **Puddle Lily**
-- **Red Herb**
-- **Rest Radish**
-- **Shot Stone** 
-- **Smolderplume**
-- **Steeleaf Herb**
-- **White Herb**
-- **White Herb Bulb**
-- **Yellow Herb**
----
-- **Alchemical Spirit**
-	- *Carry Limit*: 10; *Value:* 15; A small bottle of powerful alcohol that can be used to extract effects from most flora.
-- **Black Herb**
-	- *Carry Limit*: 10; *Value:* 55; A small shoot taken from an Umbrangea plant. 
-- **Black Herb Bulb**
-	- *Carry Limit*: 5; *Value:* 75; A bulb taken from an Umbrangea plant.
-- **Blank Rune** 
-	- *Carry Limit*: 6; *Value:* 60; A Behemoth bone rune, carved expertly to provide a flat surface for embossing.
-- **Blue Herb**
-	- *Carry Limit*: 10; *Value:* 10; A bright blue shoot taken from a Blue Chromaticinth. 
-- **Bouldegonia**
-	- *Carry Limit*: 5; *Value:* 90; A gray flower that is hard as stone due to its ability to arcanosythesize earthen elementia. 
-- **Flitter Flora**
-	- *Carry Limit*: 5; *Value:* 90; A white flower with wispy, silk-like petals. Constantly flitters, as if in mild wind, at all times due to high amounts of internal air elementia.
-- **Frozen Fleur**
-	- *Carry Limit*: 5; *Value:* 100; A crystalline flower that drips ice-cold, but never frozen, water.  
-- **Mothberry**
-	- *Carry Limit*: 20; *Value:* 15; A small, white berry that germinates on the highly toxic Moth Camellia plant. Has powerful medicinal properties.
-- **Puddle Lily**
-	- *Carry Limit*: 5; *Value:* 80; A flower with wide, channel-like leaves that constantly pool and drip water. 
-- **Red Herb**
-	- *Carry Limit*: 10; *Value:* 20; A crimson red shoot harvested from a Red Chromaticinth.
-- **Rest Radish**
-	- *Carry Limit*: 9; *Value:* 45; The tuber from a Rest Radish.
-- **Shot Stone** 
-	- *Carry Limit*: 12; *Value:* 55; Special stones harvested from places with high concentrations of fire elementia. When energized, these stones emit a powerful projectile.
-- **Smolderplume**
-	- *Carry Limit*: 5; *Value:* 70; Long, spiral-shaped leaves that smolder with smoke and ebb with ember.
-- **Steeleaf Herb**
-	- *Carry Limit*: 5; *Value:* 60; An incredibly durable leaf-like herb.
-- **White Herb**
-	- *Carry Limit*: 10; *Value:* 55; A shoot taken from a Solar Bloom.
-- **White Herb Bulb**
-	- *Carry Limit*: 5; *Value:* 75; A germination bulb, taken from a Solar Bloom.
-- **Yellow Herb**
-	- *Carry Limit*: 6; *Value:* 25; A pungently yellow shoot taken from a Yellow Chromaticinth.
+- List 
 
 </div></div>
 
@@ -1900,14 +1782,7 @@ If you prefer to skip the purchasing of gear piecemeal, some suggested kits are 
 </div>
 
 
-- **Bloodied**
-- **Defenseless**
-- **Drained**
-- **Hidden**
-- **Offenseless**
-- **Unconscious**
-- **Unprepared**
-- **Winded**
+- List  
 
 </div></div>
 
